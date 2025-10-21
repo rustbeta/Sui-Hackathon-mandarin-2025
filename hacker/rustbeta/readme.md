@@ -16,3 +16,4 @@
 ## 参赛信息
 
 - 项目代码 [sui-chat-protocol](https://github.com/rustbeta/sui-chat-protocol)
+- 测试网地址： [0x2f15312d544fd90b6a3eb9837de73dcb57146fb6037ab5d0bdd068a4714f3bcd](https://testnet.suivision.xyz/package/0x2f15312d544fd90b6a3eb9837de73dcb57146fb6037ab5d0bdd068a4714f3bcd)
